@@ -1,0 +1,17 @@
+comaparison operators
+<, <=, >, >=, ==, !=, is, is not
+
+numbers can be int, float, complex
+can be +, -, *, /, //, %, abs(), int(), float(), **
+
+str is text, can include number characters
+
+dict - key value pairs, create using curly brackets {'key':'value', 'a':'b', 'c':'d'}
+
+set - an immutable, ordered, non-repeating group, use curly brackets {1, 2, 3, 4}
+
+list - any number of indexed items ['a', 1, 'f', 3]
+
+tuple - immutable list, create using parentheses ('a','b', 2, 3)
+
+boolean - checks true or false, can use in or, and, not also to check multiple values
