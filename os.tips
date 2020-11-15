@@ -1,0 +1,21 @@
+pyhton OS file and dir methods
+
+to run a file as a new process
+import os
+os.system('python my_file.py')
+
+to show the current working directory
+import os
+os.getcwd()
+
+to change current working directory
+import os
+os.chdir('c:/users')
+
+to list directories and files in current working directory
+import os
+os.listdir()
+
+to create a directory
+import os
+os.mkdir('dir_name')
