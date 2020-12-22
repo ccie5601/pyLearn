@@ -1,3 +1,11 @@
+#split a string into an array with a for loop
+def split_str(s):
+  return [ch for ch in s]
+
+#split a string using list operator
+def split_str(s):
+  return list(s)
+
 # default splits at space
 variable.split()
 
